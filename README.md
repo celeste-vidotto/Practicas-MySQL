@@ -22,8 +22,3 @@ El proyecto incluye:
 - "DML-consultas": select, joins, delete, sum, etc.
 - "inserccion-datos": Inserción de datos de prueba generados con IA
 
-
-
-✍️ Autor
-
-Proyecto desarrollado como práctica personal para fortalecer habilidades en SQL y bases de datos.
