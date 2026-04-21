@@ -1,0 +1,10 @@
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Tech Distribuciones SA', 30712345678, '1145678901', 'contacto@techdist.com', 'Av. Corrientes 1234', 'Buenos Aires');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Importadora Digital SRL', 30723456789, '1167894321', 'ventas@importdigital.com', 'Calle San Martín 456', 'Córdoba');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Electro World SA', 30734567890, '1156789123', 'info@electroworld.com', 'Av. Rivadavia 789', 'Rosario');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Soluciones IT Group', 30745678901, '1145671234', 'soporte@solucionesit.com', 'Calle Belgrano 321', 'Mendoza');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Global Hardware SRL', 30756789012, '1134567890', 'contacto@globalhw.com', 'Av. Libertador 654', 'La Plata');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Distribuidora TecnoMax', 30767890123, '1122334455', 'ventas@tecnomax.com', 'Calle Mitre 852', 'Mar del Plata');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Componentes del Sur SA', 30778901234, '1198765432', 'info@componentesur.com', 'Av. Colón 963', 'Bahía Blanca');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Redes y Sistemas SRL', 30789012345, '1176543210', 'contacto@redesis.com', 'Calle Sarmiento 147', 'San Miguel de Tucumán');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Insumos Tecnológicos SA', 30790123456, '1165432109', 'ventas@insumostec.com', 'Av. Alem 258', 'Salta');
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion, localidad) VALUES ('Servicios Informáticos Integrales', 30701234567, '1154321098', 'info@serviciosii.com', 'Calle Moreno 369', 'Neuquén');

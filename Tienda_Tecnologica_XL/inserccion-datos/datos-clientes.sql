@@ -1,0 +1,15 @@
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Juan', 'Pérez', 1123456789, 'juan.perez@gmail.com', '2023-01-15');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('María', 'González', 1167894321, 'maria.gonzalez@gmail.com', '2023-02-10');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Lucas', 'Rodríguez', 1156789123, 'lucas.rodriguez@gmail.com', '2023-03-05');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Ana', 'Fernández', 1145678901, 'ana.fernandez@gmail.com', '2023-04-12');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Sofía', 'López', 1134567890, 'sofia.lopez@gmail.com', '2023-05-20');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Martín', 'Díaz', 1122334455, 'martin.diaz@gmail.com', '2023-06-18');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Valentina', 'Martínez', 1198765432, 'valentina.martinez@gmail.com', '2023-07-22');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Diego', 'Sánchez', 1176543210, 'diego.sanchez@gmail.com', '2023-08-30');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Camila', 'Romero', 1165432109, 'camila.romero@gmail.com', '2023-09-14');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Nicolás', 'Torres', 1154321098, 'nicolas.torres@gmail.com', '2023-10-01');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Florencia', 'Ruiz', 1143210987, 'florencia.ruiz@gmail.com', '2023-10-25');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Julián', 'Morales', 1132109876, 'julian.morales@gmail.com', '2023-11-11');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Carla', 'Ortiz', 1121098765, 'carla.ortiz@gmail.com', '2023-12-03');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Federico', 'Silva', 1199988877, 'federico.silva@gmail.com', '2024-01-09');
+INSERT INTO clientes (nombre, apellido, telefono, mail, fecha_alta) VALUES ('Lucía', 'Ramos', 1188877766, 'lucia.ramos@gmail.com', '2024-02-17');
