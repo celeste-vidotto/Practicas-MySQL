@@ -52,8 +52,7 @@ Este proyecto demuestra conocimientos en:
 Las consultas fueron ejecutadas y validadas en MySQL verificando la consistencia de los datos y el funcionamiento de las relaciones.
 
 ##  DER del proyecto:
-´´´
+<img width="1062" height="501" alt="DER-tiendaTecnologicaXL" src="https://github.com/user-attachments/assets/8438d065-166d-44f9-94a1-37ba451680f2" />
 
-<img width="2125" height="1046" alt="drawSQL-image-export-2026-04-21" src="https://github.com/user-attachments/assets/2139b0a6-0424-4b40-b97b-ab78ddd045bb" />
 
 
