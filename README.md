@@ -1,3 +1,7 @@
+DER del proyecto: 
+
+<img width="1062" height="501" alt="DER-tiendaTecnologicaXL" src="https://github.com/user-attachments/assets/3b7b2e24-3402-49b1-8eed-a6d6c7a41c20" />
+
 ```md
 # MySQL Database Project
 
@@ -51,8 +55,8 @@ Este proyecto demuestra conocimientos en:
 
 Las consultas fueron ejecutadas y validadas en MySQL verificando la consistencia de los datos y el funcionamiento de las relaciones.
 
-##  DER del proyecto:
-<img width="1062" height="501" alt="DER-tiendaTecnologicaXL" src="https://github.com/user-attachments/assets/8438d065-166d-44f9-94a1-37ba451680f2" />
+
+
 
 
 
